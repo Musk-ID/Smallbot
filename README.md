@@ -22,7 +22,6 @@ $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python
 $ pip install telethon
-$ pip install requests
 $ git clone https://github.com/Musk-ID/Smallbot
 $ cd Smallbot
 $ python bot.py
