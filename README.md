@@ -27,4 +27,4 @@ $ git clone https://github.com/Musk-ID/Smallbot
 $ cd Smallbot
 $ python bot.py
 ```
-- [X] Clickbot [here](https://t.me/SmallFaucetTrxFP_bot)
+- [X] SmallFaucetpay [here](https://t.me/SmallFaucetTrxFP_bot)
